@@ -79,7 +79,7 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -2072,7 +2072,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "505347fc-bcd6-4ee2-93cb-3833b06a6cef")
-		(at 149.098 99.949)
+		(at 149.352 99.949)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
@@ -3674,6 +3674,14 @@
 		(uuid "0aaa10fb-f9ca-4fcf-b5ed-799ce5faa876")
 	)
 	(segment
+		(start 148.4895 99.949)
+		(end 146.825 99.949)
+		(width 0.4572)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "3deaaaac-6358-4b33-9c37-c98c6ffca7ff")
+	)
+	(segment
 		(start 148.082 96.519)
 		(end 148.082 97.155)
 		(width 0.4572)
@@ -3722,14 +3730,6 @@
 		(uuid "7d8d3059-5eb6-43c0-9e6d-7a34edf01a32")
 	)
 	(segment
-		(start 148.2355 99.949)
-		(end 146.825 99.949)
-		(width 0.4572)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "80ef5657-7528-4b2b-8396-5ee93b4a5180")
-	)
-	(segment
 		(start 148.092 97.165)
 		(end 148.102 97.155)
 		(width 0.4572)
@@ -3738,20 +3738,12 @@
 		(uuid "8c8c0397-3dcb-45a5-80ea-d4337a18929c")
 	)
 	(segment
-		(start 148.082 99.7955)
-		(end 148.2355 99.949)
+		(start 148.082 99.5415)
+		(end 148.4895 99.949)
 		(width 0.4572)
 		(layer "F.Cu")
 		(net "+5V")
-		(uuid "aca58f45-5ddb-4ce3-86c7-5908525712bb")
-	)
-	(segment
-		(start 148.082 97.155)
-		(end 148.082 99.7955)
-		(width 0.4572)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "cbc3e5a4-4b78-4488-9a19-f7ed772a2568")
+		(uuid "a9002de7-4d72-4d2b-b57f-9e817fed5af1")
 	)
 	(segment
 		(start 148.092 97.165)
@@ -3792,6 +3784,14 @@
 		(layer "F.Cu")
 		(net "+5V")
 		(uuid "f26a70fc-5ec7-4af5-be64-fdb4ad1c9362")
+	)
+	(segment
+		(start 148.082 96.6065)
+		(end 148.082 99.5415)
+		(width 0.4572)
+		(layer "F.Cu")
+		(net "+5V")
+		(uuid "fdefe21b-fce9-489e-8935-efcf42ea969a")
 	)
 	(via
 		(at 134.266001 97.217)
