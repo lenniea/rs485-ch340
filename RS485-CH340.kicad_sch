@@ -2715,7 +2715,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 149.5552 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -2940,7 +2940,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED BLU"
 			(at 86.0425 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3031,7 +3031,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GRN"
 			(at 86.0425 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3469,7 +3469,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 209.042 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -3975,7 +3975,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "http://cnctech.us/pdfs/1001-011-01101.pdf"
 			(at 74.93 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -4131,7 +4131,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 159.7152 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -4445,7 +4445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 209.042 121.92 90)
 			(hide yes)
 			(show_name no)
