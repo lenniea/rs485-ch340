@@ -81,7 +81,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerber")
 		)
 	)
 	(footprint "Connector_USB:USB_A_CNCTech_1001-011-01101_Horizontal"
