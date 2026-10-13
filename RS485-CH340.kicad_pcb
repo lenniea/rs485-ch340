@@ -137,7 +137,7 @@
 		(property ki_fp_filters "USB*")
 		(path "/ce6ecfd1-7643-41a3-8d48-933dfec7309c")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -649,7 +649,7 @@
 		(property ki_fp_filters "SOIC_D0008A_TEX SOIC_D0008A_TEX-M SOIC_D0008A_TEX-L")
 		(path "/4143f769-c663-49c3-8bfe-d1add3431a1d")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1020,7 +1020,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9f80d6bb-ea9c-4ea3-a6b8-3929edfa390f")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1830,7 +1830,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/79fd56d9-98c5-4422-8432-d503be5656d6")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1976,7 +1976,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e872d3b6-8e97-418e-89eb-81e3c185b0c4")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2123,7 +2123,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e0f3b82c-1698-4b75-a5e6-ceb6e8d3bcff")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2270,7 +2270,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1a018ad4-d00e-4cff-8ba2-e187e3450927")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2417,7 +2417,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005db532e8")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2563,7 +2563,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fb18858a-3d50-4c17-a239-1c3ca96dfaa3")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2709,7 +2709,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2ef20066-078d-4d55-ac97-6e89c5d577f6")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2869,7 +2869,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/227f194a-b129-4c6a-8210-1cf5b50eb8c8")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3067,7 +3067,7 @@
 		(property ki_fp_filters "JEITA?SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/a0e25b79-539f-40b1-8fb2-6678458b1657")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3451,7 +3451,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2d56fb6a-fe94-45ed-9292-81964ae3b813")
 		(sheetname "/")
-		(sheetfile "RS485-CH340E.kicad_sch")
+		(sheetfile "RS485-CH340.kicad_sch")
 		(units
 			(unit
 				(name "A")

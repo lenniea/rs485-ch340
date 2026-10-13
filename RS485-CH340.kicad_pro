@@ -514,7 +514,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RS485-CH340E.kicad_pro",
+    "filename": "RS485-CH340.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -749,8 +749,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "RS485-CH340E.kicad_sch",
-        "name": "RS485-CH340E",
+        "filename": "RS485-CH340.kicad_sch",
+        "name": "RS485-CH340",
         "uuid": "2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
       }
     ],
@@ -760,7 +760,7 @@
   "sheets": [
     [
       "2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744",
-      "RS485-CH340E"
+      "RS485-CH340"
     ]
   ],
   "text_variables": {},

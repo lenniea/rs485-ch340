@@ -2674,7 +2674,7 @@
 			(uuid "9651f5b9-aafd-46a4-85d1-6c4a79948663")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "#PWR017")
 					(unit 1)
@@ -2754,7 +2754,7 @@
 			(uuid "9bb36740-b12b-40ab-9cdb-d2da98700750")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "C1")
 					(unit 1)
@@ -2830,7 +2830,7 @@
 			(uuid "271aee8a-5d49-42d5-ab67-f21a5b5d0bfa")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "#PWR07")
 					(unit 1)
@@ -2910,7 +2910,7 @@
 			(uuid "1693ac43-4c42-4e9e-ac7f-9c5a15d65065")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "R3")
 					(unit 1)
@@ -3001,7 +3001,7 @@
 			(uuid "de2bf3ca-b7c8-4496-b9c7-7ca3d648be14")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "D1")
 					(unit 1)
@@ -3092,7 +3092,7 @@
 			(uuid "7be69b7d-030d-4a2b-b3aa-9cb0e874d305")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "D2")
 					(unit 1)
@@ -3174,7 +3174,7 @@
 			(uuid "2367b66a-8261-43e2-97ad-36b549f4290d")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "C3")
 					(unit 1)
@@ -3250,7 +3250,7 @@
 			(uuid "9847336d-dd4f-4c16-a8db-37ba529485a9")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "#PWR06")
 					(unit 1)
@@ -3350,7 +3350,7 @@
 			(uuid "98fe2a58-3e58-4d68-9043-7926a12a2ba2")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "U2")
 					(unit 1)
@@ -3428,7 +3428,7 @@
 			(uuid "e557600f-4f3a-4056-9091-5bdde7ecb07b")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "#PWR05")
 					(unit 1)
@@ -3509,7 +3509,7 @@
 			(uuid "9ae996ac-72c0-423b-a161-2c24823ba96f")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "R1")
 					(unit 1)
@@ -3587,7 +3587,7 @@
 			(uuid "cd4a05a1-b2ce-49a4-a141-fa5e269e9f44")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "#PWR01")
 					(unit 1)
@@ -3663,7 +3663,7 @@
 			(uuid "39eadd16-a9db-418e-ab95-15c27ef3debc")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "#PWR08")
 					(unit 1)
@@ -3739,7 +3739,7 @@
 			(uuid "821e0337-5b4c-40e7-b76e-bce4e12a40e0")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "#PWR09")
 					(unit 1)
@@ -3825,7 +3825,7 @@
 			(uuid "3c10fa0b-d81b-406e-b718-17ad7643adb8")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "J2")
 					(unit 1)
@@ -3925,7 +3925,7 @@
 			(uuid "ab538099-02ea-43cc-8ad8-163eea7c9f23")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "U1")
 					(unit 1)
@@ -4012,7 +4012,7 @@
 			(uuid "b200973e-2ca5-434d-a815-ca37c4a7626f")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "J1")
 					(unit 1)
@@ -4090,7 +4090,7 @@
 			(uuid "785ee69e-c258-4051-9abd-12317b8f572c")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "#PWR02")
 					(unit 1)
@@ -4170,7 +4170,7 @@
 			(uuid "1c23214c-2119-4ced-bff8-7f7b4c6bd741")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "C2")
 					(unit 1)
@@ -4250,7 +4250,7 @@
 			(uuid "3f95463a-e1dd-4d26-a8f9-de020f4b0a30")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "R4")
 					(unit 1)
@@ -4328,7 +4328,7 @@
 			(uuid "5ca50e6a-f8ef-426d-a18e-aba52104ec81")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "#PWR03")
 					(unit 1)
@@ -4404,7 +4404,7 @@
 			(uuid "b7632175-2c01-4356-a539-a4154531a2fa")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "#PWR04")
 					(unit 1)
@@ -4485,7 +4485,7 @@
 			(uuid "719f6f5f-17d7-4f68-b608-df1049a51924")
 		)
 		(instances
-			(project "RS485-CH340E"
+			(project "RS485-CH340"
 				(path "/2dd5dd41-b5cb-4d04-8a3c-b7e0b29aa744"
 					(reference "R2")
 					(unit 1)
